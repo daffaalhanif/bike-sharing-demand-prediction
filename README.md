@@ -1,5 +1,9 @@
 # 🚲 Bike Sharing Demand Prediction
 
+<p align="center">
+  <img src="assets/cover.png" alt="Bike Sharing Demand Prediction">
+</p>
+
 ## 📌 Project Description
 
 This project is an end-to-end machine learning implementation to predict
